@@ -22,7 +22,11 @@ A super simple Packet sniffer script leveraging Scapy and Cloudshark
 $ python3 -m venv /path/you/want/the/env/in
 $ source /path/you/want/the/env/in/bin/activate 
 ```
+```
 2.) You will need a cloudshark account. They will give a free account for 30 days no credit card required https://www.qacafe.com/analysis-tools/cloudshark/qa-cloudshark-personal-saas/
+$ Here is the api documentation for uploading and exporting pcap from cloud shark https://support.qacafe.com/cloudshark/api/
+$ Here is Scapy documentation if you are not familiar with the python library https://github.com/secdev/scapy
+```
 #### Clone repository 
 
         $ git clone https://github.com/ChalkingCode/SharkByte.git
